@@ -1,0 +1,6 @@
+{
+  "calendarLimitExpression": "SHIFT(-1D)",
+  "calendarType": "CAL_SELECT",
+  "calendars": "BASE_CAL",
+  "resourceType": "CALENDAR"
+}
